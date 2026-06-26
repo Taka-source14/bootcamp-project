@@ -4,7 +4,7 @@ Yapay Zeka Teknoloji Akademisi Bootcamp proje reposu.
 # Proje Adı
 
 ## Takım İsmi
-
+Team - DEEMZ
 ## Takım Üyeleri ve Rolleri
 
 |       İsim                  | Rol           |
